@@ -3,17 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Nitesh Rauniyar, A cyber Security  enthusiast 👨‍💻 pursuing BCA at GLA University Mathura 🚀</div>  
+### <div align="center">👋 Hello there! I'm Nitesh Rauniyar, a passionate Django developer.</div>  
   
-
-- 🔭 I’m currently working on a project (eCommerce Website)   
+- 🚀 I specialize in building robust and scalable web applications using Django, Python's powerful web framework. My expertise lies in creating efficient backend architectures, designing APIs, and implementing clean and maintainable code.
   
-
-- 🌱 I’m currently learning Ethical Hacking  
+- 💡 I have a strong understanding of software development principles, object-oriented programming, and design patterns. I strive to write elegant, efficient, and reusable code to deliver high-quality solutions.
   
-
-- ❓ Ask me about anything related to cyber security and related technologies  
-  
+- 🌟 If you have any questions, need assistance with Django development, or want to collaborate on exciting projects, feel free to reach out to me. I'm always open to new opportunities and collaborations.
 
 <br/>  
 
