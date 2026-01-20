@@ -1,100 +1,107 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">👋 Hello there! I'm Nitesh Rauniyar, a passionate Django developer.</div>  
-  
-- 🚀 I specialize in building robust and scalable web applications using Django, Python's powerful web framework. My expertise lies in creating efficient backend architectures, designing APIs, and implementing clean and maintainable code.
-  
-- 💡 I have a strong understanding of software development principles, object-oriented programming, and design patterns. I strive to write elegant, efficient, and reusable code to deliver high-quality solutions.
-  
-- 🌟 If you have any questions, need assistance with Django development, or want to collaborate on exciting projects, feel free to reach out to me. I'm always open to new opportunities and collaborations.
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Languages  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+### <div align="center">👋 Hello, I’m Nitesh Rauniyar</div>
 
-
-
-### Web Development  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<div align="center">
+Backend-focused Software Engineer • Django & Python Specialist • System Thinker
 </div>
 
-</td><td valign="top" width="33%">
+<br/>
 
+I build reliable, production grade backend systems with a strong focus on clarity, correctness, and long-term maintainability.  
+My core strength lies in translating real world business problems into clean data models, well structured APIs, and predictable system behavior.
 
+I work primarily with Django and Python, while also having hands on experience with Java, Spring Boot, and MongoDB. I approach development with an architectural mindset designing schemas, defining boundaries, and thinking through edge cases before writing code.
 
-### Others  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+Beyond frameworks, I actively explore how systems work at a deeper level: data structures, security vulnerabilities, memory behavior, and even language design. I am currently experimenting with building a simplified programming language (Nova) to better understand compilers, syntax design, and developer ergonomics.
+
+I value ownership, clarity, and execution. If a system breaks, I want to know why. If a feature exists, it should exist for a reason.
+
+<br/>
+
+## Core Skill Set
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Programming Languages
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
 </div>
 
-</td></tr></table>  
+</td>
+<td valign="top" width="33%">
 
-<br/>  
+### Backend & Web Development
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+</div>
 
+</td>
+<td valign="top" width="33%">
 
-## Connect with me  
+### Tools & Environment
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Areas of Focus
+
+Backend system design and data modeling  
+REST API design and integration  
+Clinic and business workflow automation  
+Security fundamentals and vulnerability analysis  
+Language and tooling design for developers  
+
+<br/>
+
+## Connect
+
 <div align="center">
 <a href="https://github.com/igNitesh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@niteshrauniyar0" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/nitesh-rauniyar-10042522a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/@niteshrauniyar0" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://instagram.com/nitesh_rauny" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
 
-<br/>  
+<br/>
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=igNitesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
+## GitHub Activity
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=igNitesh&&style=flat-square" align="center" />
-</div>  
-  
+<img src="https://github-readme-stats.vercel.app/api?username=igNitesh&show_icons=true&count_private=true&hide_border=true" />
+</div>
 
-<br/>  
+<br/>
 
-
-<br />
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=igNitesh&style=flat-square" />
+</div>
