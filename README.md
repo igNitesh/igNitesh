@@ -2,105 +2,100 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">👋 Hello, I’m Nitesh Rauniyar</div>
+<h1 align="center">Hi 👋, I'm Nitesh Rauniyar</h1>
 
-<div align="center">
-Backend-focused Software Engineer • Django & Python Specialist • System Thinker
-</div>
+<p align="center">
+Backend Engineer • System Thinker • Builder by Curiosity
+</p>
 
-<br/>
+---
 
-I build reliable, production grade backend systems with a strong focus on clarity, correctness, and long-term maintainability.  
-My core strength lies in translating real world business problems into clean data models, well structured APIs, and predictable system behavior.
+## ⚡ About Me
 
-I work primarily with Django and Python, while also having hands on experience with Java, Spring Boot, and MongoDB. I approach development with an architectural mindset designing schemas, defining boundaries, and thinking through edge cases before writing code.
+I don’t just write code — I design systems.
 
-Beyond frameworks, I actively explore how systems work at a deeper level: data structures, security vulnerabilities, memory behavior, and even language design. I am currently experimenting with building a simplified programming language (Nova) to better understand compilers, syntax design, and developer ergonomics.
+I focus on building **predictable, maintainable, and production-ready backend systems**, where every decision (data model, API, logic) is intentional and scalable.
 
-I value ownership, clarity, and execution. If a system breaks, I want to know why. If a feature exists, it should exist for a reason.
+- 🧠 Think in **systems, not scripts**
+- ⚙️ Strong in **backend architecture & data modeling**
+- 🔍 Curious about **how things work under the hood**
+- 🛠️ Build tools, not just features
 
-<br/>
+Currently:
+- 🚀 Building **Nova** — a simplified programming language inspired by Java
+- 🧩 Exploring **system design, compilers, and developer tooling**
+- 🔐 Practicing **security & vulnerability analysis**
+- 📦 Working with **Flask, Django, Spring Boot, MongoDB**
 
-## Core Skill Set
+---
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## 🧠 Engineering Philosophy
 
-### Programming Languages
-<div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
-</div>
+> If a system breaks, I want to know why.  
+> If a feature exists, it should exist for a reason.
 
-</td>
-<td valign="top" width="33%">
+I believe in:
+- Clear boundaries over quick hacks  
+- Simplicity over cleverness  
+- Understanding over memorization  
 
-### Backend & Web Development
-<div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
-</div>
+---
 
-</td>
-<td valign="top" width="33%">
+## 🛠️ Tech Stack
+
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+</p>
+
+### Backend & Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,spring,mysql,mongodb" />
+</p>
 
 ### Tools & Environment
-<div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,bash,powershell" />
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 🎯 What I Work On
 
-## Areas of Focus
+- Backend system design  
+- REST API architecture  
+- Business workflow automation (clinic / real-world systems)  
+- Security fundamentals & exploit understanding  
+- Programming language & tooling experiments  
 
-Backend system design and data modeling  
-REST API design and integration  
-Clinic and business workflow automation  
-Security fundamentals and vulnerability analysis  
-Language and tooling design for developers  
+---
 
-<br/>
+## 🚧 Current Focus
 
-## Connect
+- Designing **clean backend architectures like in real production systems**
+- Building **Nova (custom language)** to understand compilers deeply
+- Learning how **real software engineering works beyond tutorials**
 
-<div align="center">
-<a href="https://github.com/igNitesh" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/nitesh-rauniyar-10042522a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/@niteshrauniyar0" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://instagram.com/nitesh_rauny" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</div>
+---
 
-<br/>
-
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igNitesh&show_icons=true&count_private=true&hide_border=true" />
 </div>
 
-<br/>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/igNitesh"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nitesh-rauniyar-10042522a/"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/@niteshrauniyar0"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/nitesh_rauny"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=igNitesh&style=flat-square" />
