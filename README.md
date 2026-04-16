@@ -16,11 +16,11 @@ Backend Engineer focused on building **scalable, production-ready systems** usin
 
 ---
 
-## 🔥 Featured Projects (Start Here)
+## 🔥 Featured Projects 
 
 ### 🧠 Nova Programming Language (Compiler)
-👉 GitHub: [ADD LINK]  
-👉 Demo: [ADD VIDEO LINK]
+👉 GitHub: https://github.com/igNitesh/nova-lang
+👉 Demo: https://courageous-queijadas-d92613.netlify.app/
 
 - Built compiler with **lexer → parser → AST → LLVM IR**
 - Designed modular compilation pipeline
@@ -29,7 +29,7 @@ Backend Engineer focused on building **scalable, production-ready systems** usin
 ---
 
 ### 🛒 E-commerce Backend (Django/DRF)
-👉 GitHub: [ADD LINK]
+👉 GitHub: https://github.com/igNitesh/YOYOFashion
 
 - Designed **25+ REST APIs**
 - Handles authentication, orders, inventory
@@ -38,20 +38,11 @@ Backend Engineer focused on building **scalable, production-ready systems** usin
 ---
 
 ### 🏥 Clinic Management System
-👉 GitHub / Demo: [ADD LINK]
+👉 GitHub / Demo: https://github.com/igNitesh/skg
 
 - Appointment, billing, role-based access
 - Real-world workflow automation
 - Secure and scalable backend design
-
----
-
-### 🤖 PR Risk Analyzer (Hackathon Project)
-👉 GitHub: [ADD LINK]
-
-- Backend system to analyze pull requests
-- Assigns **risk score based on code changes**
-- Suggests test cases to reduce review effort
 
 ---
 
