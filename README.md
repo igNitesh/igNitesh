@@ -38,7 +38,7 @@ Backend Engineer focused on building **scalable, production-ready systems** usin
 ---
 
 ### 🏥 Clinic Management System
-👉 GitHub / Demo: https://github.com/igNitesh/skg
+👉 GitHub / Demo: [https://github.com/igNitesh/skg](https://github.com/igNitesh/veterinary-clinic-management
 
 - Appointment, billing, role-based access
 - Real-world workflow automation
