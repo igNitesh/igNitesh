@@ -1,102 +1,80 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Nitesh Rauniyar</h1>
 
 <p align="center">
-Backend Engineer • System Thinker • Builder by Curiosity
+Backend Engineer (Django/DRF) • Building Production-Ready Systems
 </p>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-I don’t just write code — I design systems.
+Backend Engineer focused on building **scalable, production-ready systems** using Django & DRF.
 
-I focus on building **predictable, maintainable, and production-ready backend systems**, where every decision (data model, API, logic) is intentional and scalable.
-
-- 🧠 Think in **systems, not scripts**
-- ⚙️ Strong in **backend architecture & data modeling**
-- 🔍 Curious about **how things work under the hood**
-- 🛠️ Build tools, not just features
-
-Currently:
-- 🚀 Building **Nova** — a simplified programming language inspired by Java
-- 🧩 Exploring **system design, compilers, and developer tooling**
-- 🔐 Practicing **security & vulnerability analysis**
-- 📦 Working with **Flask, Django, Spring Boot, MongoDB**
+- Experience building **real-world backend systems (e-commerce, clinic workflows)**
+- Strong in **REST API design, data modeling, and backend architecture**
+- Built a **custom programming language (compiler using LLVM)**
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🔥 Featured Projects (Start Here)
 
-> If a system breaks, I want to know why.  
-> If a feature exists, it should exist for a reason.
+### 🧠 Nova Programming Language (Compiler)
+👉 GitHub: [ADD LINK]  
+👉 Demo: [ADD VIDEO LINK]
 
-I believe in:
-- Clear boundaries over quick hacks  
-- Simplicity over cleverness  
-- Understanding over memorization  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
-</p>
-
-### Backend & Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,spring,mysql,mongodb" />
-</p>
-
-### Tools & Environment
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,bash,powershell" />
-</p>
+- Built compiler with **lexer → parser → AST → LLVM IR**
+- Designed modular compilation pipeline
+- Converts high-level code to executable IR
 
 ---
 
-## 🎯 What I Work On
+### 🛒 E-commerce Backend (Django/DRF)
+👉 GitHub: [ADD LINK]
 
-- Backend system design  
-- REST API architecture  
-- Business workflow automation (clinic / real-world systems)  
-- Security fundamentals & exploit understanding  
-- Programming language & tooling experiments  
+- Designed **25+ REST APIs**
+- Handles authentication, orders, inventory
+- Ensures transactional consistency
 
 ---
 
-## 🚧 Current Focus
+### 🏥 Clinic Management System
+👉 GitHub / Demo: [ADD LINK]
 
-- Designing **clean backend architectures like in real production systems**
-- Building **Nova (custom language)** to understand compilers deeply
-- Learning how **real software engineering works beyond tutorials**
+- Appointment, billing, role-based access
+- Real-world workflow automation
+- Secure and scalable backend design
+
+---
+
+### 🤖 PR Risk Analyzer (Hackathon Project)
+👉 GitHub: [ADD LINK]
+
+- Backend system to analyze pull requests
+- Assigns **risk score based on code changes**
+- Suggests test cases to reduce review effort
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, JavaScript  
+**Backend:** Django, DRF, Spring Boot  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, Linux, Postman, Kafka (basic)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igNitesh&show_icons=true&count_private=true&hide_border=true" />
-</div>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/igNitesh"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nitesh-rauniyar-10042522a/"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/@niteshrauniyar0"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/nitesh_rauny"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/igNitesh">GitHub</a> •
+<a href="https://linkedin.com/in/nitesh-rauniyar-10042522a/">LinkedIn</a>
 </p>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=igNitesh&style=flat-square" />
-</div>
